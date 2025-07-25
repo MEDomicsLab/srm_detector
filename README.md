@@ -2,6 +2,8 @@
 
 This project provides a pipeline for SRM detection and classification using deep learning and radiomics.
 
+![Demo SRM](asset/demo.gif)
+
 ## Features
 - Kidney segmentation and classification
 - Augmentation and preprocessing utilities
