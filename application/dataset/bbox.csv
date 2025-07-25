@@ -1,0 +1,2 @@
+root,img,seg,pred,bbox
+Renal-CHUS-0048,D:\srm_detection_pipeline\application\dataset\holdout\whole\Renal-CHUS-0048\CECT\CECT.nrrd,D:\srm_detection_pipeline\application\dataset\holdout\whole\Renal-CHUS-0048\CECT\CECT_Segmentation.seg.nrrd,D:\srm_detection_pipeline\application\dataset\holdout\whole\Renal-CHUS-0048\CECT\mt_prediction.seg.nrrd,"[(1, 52, 23, 5, 18, 21), (1, 58, 60, 4, 14, 16)]"
